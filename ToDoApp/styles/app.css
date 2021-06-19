@@ -1,0 +1,22 @@
+
+h1{
+    color:white;
+    background-color:gray;
+    text-align:center;
+}
+
+
+
+capture-form{
+    border-radius: 10px;
+    width:320px;
+    background-color:aliceblue;
+}
+
+todo-item{
+    background-color: aliceblue;
+    border:1px solid lightgray;
+}
+
+
+
